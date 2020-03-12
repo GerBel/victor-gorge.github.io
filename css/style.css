@@ -8,3 +8,8 @@ body {
 .header {
     margin-top: 6%;
 }
+
+.title {
+    padding: 1%;
+    text-align: center;
+}
