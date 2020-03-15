@@ -9,6 +9,10 @@ body {
     margin-top: 6%;
 }
 
+#title {
+    text-align: center;
+}
+
 .title {
     padding: 1%;
     text-align: center;
